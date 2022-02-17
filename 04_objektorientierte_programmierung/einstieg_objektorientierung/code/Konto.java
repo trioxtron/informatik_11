@@ -1,13 +1,11 @@
 public class Konto{
-    private String inhaber;
     private double kontostand;
     private int kontonummer;
     private boolean gesperrt;
     
-    public Konto(String inhaber, int kontonummer){
+    public Konto(int kontonummer){
         kontostand = 0;
         gesperrt = false;
-        this.inhaber = inhaber;
         this.kontonummer = kontonummer;
     }
     

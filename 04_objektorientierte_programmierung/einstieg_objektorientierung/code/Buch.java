@@ -23,6 +23,10 @@ public class Buch{
         return seitenzahl;
     }
     
+    public boolean getAusgeliehen(){
+        return entliehen;
+    }
+    
     public void ausleihen(){
         if(entliehen == false){
             entliehen = true;

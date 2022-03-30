@@ -13,10 +13,6 @@ public class Konto{
         gesperrt = g;
     }
     
-    public String getInhaber(){
-        return inhaber;
-    }
-    
     public void einzahlen(double betrag){
         kontostand += betrag;
     }

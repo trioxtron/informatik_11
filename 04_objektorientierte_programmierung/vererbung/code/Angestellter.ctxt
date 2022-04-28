@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Angestellter
+comment1.params=personalrat\ name\ stunden\ personalnr
+comment1.target=Angestellter(boolean,\ java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=boolean\ getPersonalrat()
+comment3.params=personalrat
+comment3.target=void\ setPersonalrat(boolean)
+comment4.params=
+comment4.target=double\ gehaltBerechnen()
+numComments=5

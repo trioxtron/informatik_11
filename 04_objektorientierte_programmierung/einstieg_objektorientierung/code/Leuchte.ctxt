@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Leuchte
+comment1.params=farbe\ leuchtet
+comment1.target=Leuchte(java.lang.String,\ boolean)
+numComments=2

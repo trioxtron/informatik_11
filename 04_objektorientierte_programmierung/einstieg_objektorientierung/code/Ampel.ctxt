@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Ampel
+comment1.params=nummer\ l1\ l2\ l3
+comment1.target=Ampel(int,\ Leuchte,\ Leuchte,\ Leuchte)
+comment2.params=
+comment2.target=int\ getNummer()
+comment3.params=
+comment3.target=Leuchte\ getLeuchte1()
+comment4.params=
+comment4.target=Leuchte\ getLeuchte2()
+comment5.params=
+comment5.target=Leuchte\ getLeuchte3()
+numComments=6

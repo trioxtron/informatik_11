@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Konto
+comment1.params=kontonummer
+comment1.target=Konto(int)
+comment2.params=g
+comment2.target=void\ setGesperrt(boolean)
+comment3.params=betrag
+comment3.target=void\ einzahlen(double)
+comment4.params=betrag
+comment4.target=void\ auszahlen(double)
+comment5.params=
+comment5.target=double\ getKontostand()
+comment6.params=betrag
+comment6.target=void\ setKontostand(double)
+comment7.params=betrag\ empfaenger
+comment7.target=void\ ueberweisen(double,\ Konto)
+numComments=8

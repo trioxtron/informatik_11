@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Auto
+comment1.params=kennzeichen
+comment1.target=Auto(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getKennzeichen()
+comment3.params=kennzeichen
+comment3.target=void\ setKennzeichen(java.lang.String)
+numComments=4

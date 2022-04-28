@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Kunde
+comment1.params=name\ weiblich\ kontonummer
+comment1.target=Kunde(java.lang.String,\ boolean,\ int)
+comment10.params=
+comment10.target=void\ printBuecher()
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=boolean\ getWeiblich()
+comment4.params=
+comment4.target=Konto\ getGirokonto()
+comment5.params=betrag
+comment5.target=void\ abheben(double)
+comment6.params=betrag
+comment6.target=void\ einzahlen(double)
+comment7.params=betrag\ empfaenger
+comment7.target=void\ ueberweisen(double,\ Kunde)
+comment8.params=buch
+comment8.target=void\ buchLeihen(Buch)
+comment9.params=buch
+comment9.target=void\ buchZurueckgeben(Buch)
+numComments=11
